@@ -17,6 +17,9 @@
    flex: 0 0 calc(25% - 2%);
    align-items: center;
    justify-content: center;
+   font-weight: 600;
+   font-size: 40px;
+   font-family: "Verdana", sans-serif;
    margin: 1%;
 }
 
